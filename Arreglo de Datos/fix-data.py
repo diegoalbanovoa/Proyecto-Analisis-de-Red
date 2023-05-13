@@ -27,3 +27,15 @@ final_df.to_csv(output_path, index=False)
 
 print("Archivo final guardado en: ", output_path)
 
+
+# Define la ruta y el nombre del archivo CSV generado
+file_path = r"C:\Users\diego\Videos\Proyecto Analisis de Red\Dataset Crudo Proceso de Clasificación\output.csv"
+
+# Carga el archivo CSV en un DataFrame de Pandas
+df = pd.read_csv(file_path)
+
+# Cuenta la cantidad de datos de cada protocolo
+protocol_counts = df['Protocol'].value_counts()
+
+# Imprime el resultado
+print(protocol_counts)
