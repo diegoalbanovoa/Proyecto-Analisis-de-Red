@@ -1,0 +1,701 @@
+Time,Source,Destination,Protocol,Length,Info
+303.394694,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x2239 TXT google.com
+179.183334,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xba58 MX yahoo.com
+83.753453,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x23ae MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net
+172.485195,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xe45d TXT httpbin.org
+1931.446877,2800:484:b384:c80a:f81c:f268:6f0b:c2f4,2800:481:2300::4,DNS,129,Standard query 0x75b6 HTTPS data-edge.smartscreen.microsoft.com
+222.981479,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x7a23 MX google.com MX 10 smtp.google.com
+126.903914,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x8bcd A httpbin.org A 34.199.93.197 A 34.203.15.122 A 3.230.204.70 A 34.193.132.77
+488.845479,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0xc092 A yahoo.com A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25
+153.85337,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x5ab4 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+1648.140167,192.168.20.26,190.157.8.101,DNS,89,Standard query 0xdc97 HTTPS chat.google.com
+301.463017,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x880c TXT yahoo.com
+301.915138,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x7b2d TXT httpbin.org
+18.342293,190.157.8.101,192.168.20.26,DNS,162,Standard query response 0x4fcc HTTPS disqus.com SOA ns-179.awsdns-22.com
+393.240028,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x3bda A google.com
+185.95526,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xb30d MX google.com
+400.740814,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x9178 TXT google.com
+346.212886,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x2ef0 TXT yahoo.com
+9.289352,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x3512 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+477.725967,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0xa986 MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net
+356.305731,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x7ded A yahoo.com
+152.653527,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x37f3 MX google.com MX 10 smtp.google.com
+280.954958,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x59df TXT yahoo.com
+500.655077,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x052e TXT httpbin.org TXT
+497.478317,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x581f TXT yahoo.com
+519.365207,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x04d2 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+253.600755,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0x887b A google.com A 172.217.172.14
+8.188712,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x2abe MX google.com
+517.494664,192.168.18.1,192.168.18.46,DNS,538,Standard query response 0xe151 TXT google.com TXT TXT TXT TXT TXT TXT TXT
+69.358,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xa71f TXT httpbin.org
+273.684018,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xc227 MX httpbin.org
+468.535901,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x610d A yahoo.com A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164
+123.811697,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xe99f A yahoo.com
+449.648945,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x1a96 MX google.com
+224.658938,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x94f4 A yahoo.com
+16.818616,192.168.20.26,190.157.8.101,DNS,101,Standard query 0x3025 A img-s-msn-com.akamaized.net
+490.635618,192.168.18.1,192.168.18.46,DNS,503,Standard query response 0xb3e5 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+277.865359,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x534a TXT google.com
+422.944307,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x15aa A yahoo.com
+415.639098,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x0405 A google.com
+443.636464,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x9843 A yahoo.com A 98.137.11.164 A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20
+534.344145,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x530a A yahoo.com A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21 A 74.6.143.26
+186.513489,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x58cf MX google.com MX 10 smtp.google.com
+494.975268,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x6371 MX yahoo.com MX 1 mta5.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+146.340455,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xa81b A yahoo.com
+347.670897,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xfe2c TXT httpbin.org
+490.809741,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x00b3 TXT google.com
+208.202084,192.168.18.1,192.168.18.46,DNS,536,Standard query response 0xeb01 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+381.28784,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x274d MX google.com MX 10 smtp.google.com
+322.749043,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x0418 MX httpbin.org SOA ns-1053.awsdns-03.org
+351.208574,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x4799 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+184.364682,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0xd42b MX google.com MX 10 smtp.google.com
+204.761988,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0xa20e TXT httpbin.org TXT
+249.354687,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xfc47 MX google.com
+410.144087,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x51d1 A yahoo.com
+237.708044,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x50a1 A yahoo.com
+125.246228,192.168.20.26,190.157.8.101,DNS,91,Standard query 0xa0ec A fonts.gstatic.com
+446.888606,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x98c3 MX httpbin.org SOA ns-1053.awsdns-03.org
+62.35517,192.168.18.1,192.168.18.46,DNS,517,Standard query response 0xa8f2 TXT google.com TXT TXT TXT TXT TXT TXT TXT
+158.295665,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xe349 A google.com
+251.121684,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x640b TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+274.273822,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x1e4a MX google.com
+263.90268,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xf3b8 TXT httpbin.org
+276.581179,192.168.18.1,192.168.18.46,DNS,545,Standard query response 0x31f6 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+472.971428,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0xa14e A yahoo.com A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21
+81.71474,192.168.18.1,192.168.18.46,DNS,520,Standard query response 0x0866 TXT google.com TXT TXT TXT TXT TXT TXT
+241.203622,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x9de7 A google.com
+340.175675,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x5ac5 TXT yahoo.com
+175.662615,192.168.18.1,192.168.18.46,DNS,479,Standard query response 0xf076 TXT google.com TXT TXT TXT TXT TXT TXT
+47.669437,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xf67d A google.com
+411.88037,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x9799 TXT httpbin.org
+47.426051,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0x1997 A google.com A 172.217.172.14
+421.580707,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x3619 TXT google.com
+463.774369,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x5ba0 MX yahoo.com MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+494.485532,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x1e57 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+131.606006,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x3cee TXT httpbin.org
+422.8102,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xd219 MX httpbin.org
+532.21701,192.168.18.1,192.168.18.46,DNS,509,Standard query response 0x580e TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+164.185888,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xb0a8 TXT google.com
+241.991253,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x191d A httpbin.org A 3.230.204.70 A 34.203.15.122 A 34.193.132.77 A 34.199.93.197
+249.83143,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x38ca TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+316.720129,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0xc10b TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+115.885909,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x41a7 TXT httpbin.org TXT
+534.816546,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x92aa TXT google.com
+47.249692,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x29db MX yahoo.com
+380.737797,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x4691 MX google.com MX 10 smtp.google.com
+371.433685,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x9981 MX httpbin.org
+373.783121,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x6bd5 MX yahoo.com
+264.423456,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x0519 MX httpbin.org
+139.545662,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x0a56 TXT google.com
+341.492082,192.168.18.1,192.168.18.46,DNS,509,Standard query response 0x38db TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+1608.117065,192.168.20.26,190.157.8.101,DNS,90,Standard query 0x9d88 AAAA r.msftstatic.com
+147.943747,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x3063 MX yahoo.com MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+400.301221,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xfa06 MX yahoo.com
+1619.525618,192.168.20.26,190.157.8.101,DNS,93,Standard query 0xf01d AAAA contacts.google.com
+344.924764,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x95e5 A httpbin.org
+421.660747,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x7f1f MX yahoo.com
+521.354457,192.168.18.1,192.168.18.46,DNS,518,Standard query response 0x5ce6 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+91.595396,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xf514 A google.com A 172.217.172.14
+26.631558,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x8d2c TXT google.com
+400.007567,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x68fb TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+1997.678132,190.157.8.101,192.168.20.26,DNS,234,Standard query response 0x58d9 A th.bing.com CNAME p-th.bing.com.trafficmanager.net CNAME th.bing.com.edgekey.net CNAME e86303.dscx.akamaiedge.net A 181.54.161.112 A 181.54.161.115
+534.226528,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x5c27 A google.com
+131.223786,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0xdfd4 MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+506.368102,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x1c96 MX httpbin.org
+226.917869,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x03fa A httpbin.org
+391.455296,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xc3da A yahoo.com
+299.673082,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x188d MX httpbin.org
+243.933143,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x1329 TXT google.com
+468.126178,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xda86 A google.com A 172.217.172.14
+433.226634,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x8c6e TXT httpbin.org TXT
+103.429533,192.168.18.46,192.168.18.1,DNS,83,Standard query 0xcc4f TXT yahoo.com
+1614.543839,190.157.8.101,192.168.20.26,DNS,166,Standard query response 0x1418 A img-s-msn-com.akamaized.net CNAME a1834.dscg2.akamai.net A 181.54.160.161 A 181.54.160.154
+47.705882,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x80a7 MX google.com MX 10 smtp.google.com
+474.030921,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xc995 TXT google.com
+18.534178,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x2a63 A yahoo.com
+122.424356,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x1d33 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+118.164259,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x7897 MX google.com MX 10 smtp.google.com
+409.547475,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xf2dd A google.com A 172.217.172.14
+460.946392,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xb520 A google.com A 172.217.172.14
+250.296141,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xbbef MX yahoo.com
+476.435744,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0xb0a8 MX httpbin.org SOA ns-1053.awsdns-03.org
+174.994476,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0xec03 MX httpbin.org SOA ns-1053.awsdns-03.org
+342.589085,192.168.18.1,192.168.18.46,DNS,531,Standard query response 0x4df1 TXT google.com TXT TXT TXT TXT TXT TXT
+126.085848,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x9332 TXT httpbin.org
+419.892831,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x94af A httpbin.org
+135.876278,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x5fef TXT httpbin.org
+396.287479,192.168.18.1,192.168.18.46,DNS,550,Standard query response 0xb16b TXT google.com TXT TXT TXT TXT TXT TXT TXT
+392.168911,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0x5c6a A google.com A 172.217.172.14
+508.978729,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xa602 TXT yahoo.com
+270.847417,2800:484:b384:c80a:f81c:f268:6f0b:c2f4,2800:481:300::4,DNS,94,Standard query 0xe17b A assets.msn.com
+376.905162,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x9408 TXT google.com
+530.859023,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xab49 TXT yahoo.com
+424.660293,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xce43 TXT yahoo.com
+376.807993,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x9348 MX httpbin.org SOA ns-1053.awsdns-03.org
+480.789043,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xde10 MX httpbin.org
+493.901194,192.168.18.46,192.168.18.1,DNS,83,Standard query 0xdf14 TXT yahoo.com
+200.04275,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x3373 MX httpbin.org SOA ns-1053.awsdns-03.org
+261.593192,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xf425 TXT google.com
+137.313769,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x4628 TXT httpbin.org TXT
+180.632793,192.168.18.1,192.168.18.46,DNS,218,Standard query response 0xf809 A mobile.events.data.microsoft.com CNAME mobile.events.data.trafficmanager.net CNAME onedscolprdcus09.centralus.cloudapp.azure.com A 13.89.179.9
+494.867767,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0xd8fe MX google.com MX 10 smtp.google.com
+322.85644,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x504a A yahoo.com
+328.682423,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x19ea MX httpbin.org
+70.195475,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0xca0a TXT httpbin.org TXT
+315.637568,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x9a54 A yahoo.com
+306.350578,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x6bd1 MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net
+210.364753,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x6151 MX httpbin.org
+179.097528,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x6a49 TXT google.com
+316.82379,192.168.18.46,192.168.18.1,DNS,83,Standard query 0xc4e6 TXT yahoo.com
+403.987431,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x8640 TXT httpbin.org TXT
+386.693368,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x09c3 A httpbin.org
+264.343783,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xd855 TXT yahoo.com
+529.674342,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0x5f38 A google.com A 172.217.172.14
+455.518746,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x90e1 TXT google.com
+305.635574,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0xa4e8 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+158.822905,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x66d6 MX httpbin.org SOA ns-1053.awsdns-03.org
+196.874983,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x1c37 A google.com
+404.649211,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xabde MX google.com
+365.058104,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x959f MX google.com MX 10 smtp.google.com
+403.065066,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x8d99 A google.com
+519.00173,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xbee9 A yahoo.com
+18.30384,192.168.20.26,190.157.8.101,DNS,84,Standard query 0x4fcc HTTPS disqus.com
+439.859806,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x03cc TXT yahoo.com
+295.249784,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0xe776 A httpbin.org A 3.230.204.70 A 34.203.15.122 A 34.199.93.197 A 34.193.132.77
+325.772287,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x932c TXT google.com
+132.424133,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x177c TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+111.784132,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x69e2 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+27.916523,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x2d5a MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+0.892722,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xdce4 A httpbin.org
+501.057579,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0xc905 MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+363.292764,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x086d MX yahoo.com
+244.251356,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x8155 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+210.901747,192.168.18.1,192.168.18.46,DNS,103,Standard query response 0xf547 A httpbin.org A 34.199.93.197 A 34.193.132.77
+395.29763,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x8969 MX yahoo.com MX 1 mta7.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+459.676038,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0xdf3d TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+362.238563,192.168.18.1,192.168.18.46,DNS,503,Standard query response 0x3008 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+375.26285,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x23c6 TXT yahoo.com
+347.619693,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x7086 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+115.534092,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x3faa TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+135.64545,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x3178 MX google.com
+22.046863,192.168.18.1,192.168.18.46,DNS,509,Standard query response 0xf82a TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+329.020572,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x4dd2 MX google.com MX 10 smtp.google.com
+1717.502972,192.168.20.26,190.157.8.101,DNS,85,Standard query 0x8a59 HTTPS polyfill.io
+122.454081,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0xc486 A httpbin.org A 34.199.93.197 A 34.203.15.122 A 3.230.204.70 A 34.193.132.77
+325.256473,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x27e5 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+152.983551,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x2545 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+355.492239,192.168.18.46,192.168.18.1,DNS,84,Standard query 0xf271 TXT google.com
+37.406243,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xcd9d A yahoo.com
+361.424299,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x4b97 A httpbin.org
+368.980016,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x86cf TXT yahoo.com
+213.604518,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x323b MX httpbin.org
+511.934923,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xb0b6 A google.com A 172.217.172.14
+347.158963,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x6cfd TXT httpbin.org TXT
+131.126343,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xd134 TXT google.com
+341.297716,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x3fdb MX httpbin.org SOA ns-1053.awsdns-03.org
+170.068126,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x7cba TXT yahoo.com
+271.117337,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x3e62 TXT google.com
+344.394727,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xcabb A httpbin.org
+12.851994,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x9a67 TXT yahoo.com
+11.137263,192.168.18.1,192.168.18.46,DNS,517,Standard query response 0x7c23 TXT google.com TXT TXT TXT TXT TXT TXT TXT
+12.9687,190.157.8.101,192.168.20.26,DNS,147,Standard query response 0x8307 A c.msn.com CNAME c-msn-com-nsatc.trafficmanager.net A 20.110.205.119
+17.776799,192.168.18.1,192.168.18.46,DNS,486,Standard query response 0x26e3 TXT yahoo.com TXT TXT TXT TXT TXT TXT
+204.957799,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xc3cc A httpbin.org
+534.184311,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x8bd9 A httpbin.org A 34.199.93.197 A 34.203.15.122 A 3.230.204.70 A 34.193.132.77
+354.378791,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0x2b43 A google.com A 172.217.172.14
+143.786547,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xd7a9 TXT httpbin.org
+162.737046,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x38d3 TXT yahoo.com
+87.665485,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0xf610 MX httpbin.org SOA ns-1053.awsdns-03.org
+415.900941,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x6b24 A google.com
+338.746143,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x62ce A yahoo.com
+199.801929,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x297b TXT httpbin.org TXT
+110.395679,192.168.18.1,192.168.18.46,DNS,542,Standard query response 0x82ef TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+277.262049,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0xfd03 TXT httpbin.org TXT
+346.438487,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0xce4d A yahoo.com A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164
+52.129762,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x5417 TXT yahoo.com
+215.641612,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0xca8a MX google.com MX 10 smtp.google.com
+194.804124,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x1292 A yahoo.com A 98.137.11.164 A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20
+39.602504,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xedc6 A httpbin.org
+406.491849,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x23fa TXT yahoo.com
+36.28221,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x6155 MX yahoo.com
+459.569415,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xd82d TXT httpbin.org
+149.425268,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xb463 A google.com A 172.217.172.14
+394.86926,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0xcc19 MX httpbin.org SOA ns-1053.awsdns-03.org
+383.990277,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xc145 TXT httpbin.org
+459.819241,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xb060 MX httpbin.org
+226.239039,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xdba6 A yahoo.com
+330.42758,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xf811 A yahoo.com
+69.108162,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x61c0 A google.com
+17.736398,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0xf3ed A yahoo.com A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164
+1739.376218,192.168.20.26,190.157.8.101,DNS,86,Standard query 0xc4f5 A v.clarity.ms
+116.654009,192.168.18.1,192.168.18.46,DNS,509,Standard query response 0xe907 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+42.447306,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x6aeb TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+124.094607,190.157.8.101,192.168.20.26,DNS,256,Standard query response 0x094c AAAA r.bing.com CNAME p-static.bing.trafficmanager.net CNAME r.bing.com.edgekey.net CNAME e86303.dscx.akamaiedge.net AAAA 2600:1419:8400::684b:ab48 AAAA 2600:1419:8400::684b:ab33
+447.790613,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x5a24 TXT google.com
+260.066828,192.168.18.46,192.168.18.1,DNS,83,Standard query 0xae82 TXT yahoo.com
+293.456435,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0xb4e6 MX httpbin.org SOA ns-1053.awsdns-03.org
+147.993233,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0xc01e TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+125.075149,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0x934f A google.com A 172.217.172.14
+129.686377,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xe10a MX google.com
+30.315997,192.168.18.1,192.168.18.46,DNS,513,Standard query response 0xbbee TXT google.com TXT TXT TXT TXT TXT TXT
+345.048818,192.168.18.1,192.168.18.46,DNS,494,Standard query response 0x8dc0 TXT google.com TXT TXT TXT TXT TXT TXT TXT
+154.966637,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xfc44 MX httpbin.org
+455.566121,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x90e1 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+57.885317,192.168.18.46,192.168.18.1,DNS,84,Standard query 0xfa42 TXT google.com
+261.471571,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0xd4c3 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+1555.227719,2800:484:b384:c80a:f81c:f268:6f0b:c2f4,2800:481:300::4,DNS,110,Standard query 0x61cd A self.events.data.microsoft.com
+464.84606,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x07de A yahoo.com A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163
+69.687603,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x1788 TXT google.com
+170.455529,192.168.18.1,192.168.18.46,DNS,520,Standard query response 0xd3f5 TXT google.com TXT TXT TXT TXT TXT TXT
+237.86313,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x0260 TXT httpbin.org
+469.150114,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x7868 TXT yahoo.com
+190.275917,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xd38f MX httpbin.org
+486.578386,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x217a TXT google.com
+206.357701,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xd5b5 A httpbin.org
+206.251991,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x5c39 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+381.454127,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xd9bd A httpbin.org
+234.651291,192.168.18.1,192.168.18.46,DNS,517,Standard query response 0x8efb TXT google.com TXT TXT TXT TXT TXT TXT TXT
+6.476882,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0xf2cb A httpbin.org A 34.203.15.122 A 34.199.93.197 A 34.193.132.77 A 3.230.204.70
+159.215892,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0xd4a7 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+489.545441,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x63c6 A httpbin.org A 34.199.93.197 A 34.203.15.122 A 3.230.204.70 A 34.193.132.77
+494.999467,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x6720 TXT yahoo.com
+245.014611,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x6b07 TXT google.com
+18.355691,192.168.20.26,190.157.8.109,DNS,91,Standard query 0x2348 AAAA dc1-file.ksn.kaspersky-labs.com
+517.456759,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xeb68 MX google.com
+189.879199,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xee99 A yahoo.com
+259.531035,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0xd087 A httpbin.org A 3.230.204.70 A 34.203.15.122 A 34.193.132.77 A 34.199.93.197
+142.159563,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x2304 MX httpbin.org
+335.759078,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x14cf TXT httpbin.org TXT
+87.559871,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x3d56 TXT yahoo.com
+320.369309,192.168.18.1,192.168.18.46,DNS,523,Standard query response 0x01e9 TXT google.com TXT TXT TXT TXT TXT TXT TXT
+369.263149,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0xb396 MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+489.195734,192.168.18.1,192.168.18.46,DNS,542,Standard query response 0x1c23 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+0.248646,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xd9b1 A yahoo.com
+174.106914,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xabaf A google.com
+19.530693,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x37ac TXT httpbin.org TXT
+148.476706,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x765c TXT yahoo.com
+85.135005,192.168.18.1,192.168.18.46,DNS,518,Standard query response 0x14b9 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+470.497367,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x9741 MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+323.450386,192.168.18.1,192.168.18.46,DNS,503,Standard query response 0xe75b TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+345.569037,192.168.18.1,192.168.18.46,DNS,513,Standard query response 0xd901 TXT google.com TXT TXT TXT TXT TXT TXT
+328.070391,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x13b9 MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+56.522411,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xcab1 A yahoo.com
+323.432614,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xe75b TXT yahoo.com
+184.502806,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x42a4 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+475.680324,192.168.18.46,192.168.18.1,DNS,84,Standard query 0xec2a TXT google.com
+186.562357,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0xb044 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+257.137043,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xcd27 TXT httpbin.org
+431.717209,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0xb6e2 A yahoo.com A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164
+2202.97367,2800:481:300::4,2800:484:b384:c80a:f81c:f268:6f0b:c2f4,DNS,125,Standard query response 0xc8d0 A media-mia3-1.cdn.whatsapp.net A 31.13.67.52
+462.903951,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xe733 A yahoo.com
+65.695179,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x6679 MX google.com MX 10 smtp.google.com
+2.406742,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x59de TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+179.632463,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xc11f A google.com A 172.217.172.14
+317.154118,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0xa79d MX httpbin.org SOA ns-1053.awsdns-03.org
+426.38039,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x6f5a MX httpbin.org
+474.176008,192.168.18.1,192.168.18.46,DNS,542,Standard query response 0x6780 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+378.300161,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x7740 TXT google.com
+334.638995,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0xf928 TXT httpbin.org TXT
+501.365348,192.168.18.1,192.168.18.46,DNS,542,Standard query response 0x38b7 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+36.901312,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x8023 TXT yahoo.com
+145.633301,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x3f24 A httpbin.org A 34.203.15.122 A 3.230.204.70 A 34.193.132.77 A 34.199.93.197
+358.758849,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0xd610 MX google.com MX 10 smtp.google.com
+251.264351,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x7739 MX httpbin.org
+528.724817,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x9817 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+511.518873,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xcbee MX yahoo.com
+329.039652,192.168.18.1,192.168.18.46,DNS,491,Standard query response 0xe1a8 TXT google.com TXT TXT TXT TXT TXT TXT
+199.822381,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0x5d95 A google.com A 172.217.172.14
+404.130484,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x7854 MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+533.996412,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x05d4 TXT google.com
+125.588949,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xe78a MX google.com
+160.773126,192.168.18.1,192.168.18.46,DNS,483,Standard query response 0x8e1f TXT google.com TXT TXT TXT TXT TXT TXT
+301.702555,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x1e2d TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+282.296328,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x4d95 TXT yahoo.com
+150.063228,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x7c2d A yahoo.com A 98.137.11.164 A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20
+498.668369,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x83a5 MX httpbin.org
+119.003963,192.168.18.1,192.168.18.46,DNS,485,Standard query response 0x539c TXT google.com TXT TXT TXT TXT TXT TXT
+525.567774,192.168.20.26,190.157.8.101,DNS,87,Standard query 0x2348 AAAA downloads.upd.kaspersky.com
+478.800746,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x6ee6 MX yahoo.com
+191.164333,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xc9a4 A google.com
+179.874643,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xa104 TXT httpbin.org
+89.115109,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x1da0 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+266.108791,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x0d22 TXT yahoo.com
+171.973906,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x7ec8 MX httpbin.org SOA ns-1053.awsdns-03.org
+227.204385,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x1dae MX httpbin.org
+156.955265,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x7f2d A google.com
+339.808873,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0xa790 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+48.806098,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x921d TXT httpbin.org TXT
+41.882971,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xbd18 TXT google.com
+462.976204,192.168.18.1,192.168.18.46,DNS,509,Standard query response 0x0aac TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+160.376629,192.168.18.46,192.168.18.1,DNS,83,Standard query 0xcc53 TXT yahoo.com
+316.253631,192.168.18.46,192.168.18.1,DNS,83,Standard query 0xa719 TXT yahoo.com
+299.563853,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x4f41 MX yahoo.com
+186.452765,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x1d80 MX httpbin.org SOA ns-1053.awsdns-03.org
+73.895336,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x8be8 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+118.687126,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x795a MX google.com
+57.256385,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x6dd8 TXT httpbin.org TXT
+401.717785,192.168.18.1,192.168.18.46,DNS,542,Standard query response 0x2618 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+258.035248,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x2797 TXT google.com
+396.683286,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x0be6 TXT yahoo.com
+355.470526,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xf271 TXT google.com
+350.283243,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x8e17 TXT google.com
+794.322878,2800:481:300::4,2800:484:b384:c80a:f81c:f268:6f0b:c2f4,DNS,293,Standard query response 0x83e7 AAAA v10.events.data.microsoft.com CNAME win-global-asimov-leafs-events-data.trafficmanager.net CNAME onedscolprdjpe01.japaneast.cloudapp.azure.com SOA ns1-05.azure-dns.com
+209.631844,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0xbe6c TXT httpbin.org TXT
+152.936215,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x2545 TXT google.com
+248.773324,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xf7cc TXT httpbin.org
+1629.312191,192.168.20.26,190.157.8.101,DNS,89,Standard query 0xa9d1 A bam.nr-data.net
+68.911433,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x6b65 TXT google.com
+443.816346,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x2d7e MX google.com MX 10 smtp.google.com
+314.482044,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x035d TXT httpbin.org
+193.916538,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xddd5 TXT google.com
+30.686046,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0xdd42 MX yahoo.com MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+510.015081,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x12c8 MX google.com MX 10 smtp.google.com
+0.716804,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xc0b3 A google.com A 172.217.172.14
+90.525265,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x67d8 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+1681.416638,192.168.20.26,190.157.8.101,DNS,85,Standard query 0x93a1 HTTPS r20.rs6.net
+514.744819,192.168.18.1,192.168.18.46,DNS,503,Standard query response 0x78cc TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+1388651102.908396,95.136.242.99,109.0.66.10,DNS,80,Standard query 0x000a A corp.fon.com
+425.037025,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x7131 MX httpbin.org SOA ns-1053.awsdns-03.org
+259.441517,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0xd595 MX yahoo.com MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+501.22711,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x34bb TXT google.com
+404.22918,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xe7c5 MX httpbin.org
+88.299897,192.168.18.46,192.168.18.1,DNS,84,Standard query 0xafa1 TXT google.com
+245.62473,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x7994 TXT yahoo.com
+528.341747,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xd7ac A yahoo.com
+316.689317,192.168.18.1,192.168.18.46,DNS,545,Standard query response 0xc10b TXT google.com TXT TXT TXT TXT TXT TXT TXT
+29.196209,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x7e66 MX google.com MX 10 smtp.google.com
+193.748899,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xd94b TXT yahoo.com
+436.596663,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x1785 TXT httpbin.org TXT
+196.772336,192.168.18.1,192.168.18.46,DNS,509,Standard query response 0x763a TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+493.217308,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x201f MX google.com
+519.456842,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x0f2a MX google.com
+124.254522,190.157.8.101,192.168.20.26,DNS,229,Standard query response 0x4e15 A www.bing.com CNAME www-www.bing.com.trafficmanager.net CNAME www-bing-com.dual-a-0001.a-msedge.net CNAME dual-a-0001.a-msedge.net A 204.79.197.200 A 13.107.21.200
+197.762171,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0xe5c3 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+359.498764,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x15ac TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+370.937664,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xe62a MX google.com
+374.982581,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x7bee TXT yahoo.com
+110.320777,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x16dc A yahoo.com
+1367.889909,192.168.20.26,190.157.8.101,DNS,83,Standard query 0x0862 A monica.im
+317.205615,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x0fcb MX google.com MX 10 smtp.google.com
+83.085183,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0xcd24 MX google.com MX 10 smtp.google.com
+173.015758,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x652b TXT httpbin.org
+297.950417,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x428d MX yahoo.com MX 1 mta5.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net
+504.70865,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x8008 MX httpbin.org
+105.70108,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xd143 A google.com
+102.744856,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x453e MX google.com MX 10 smtp.google.com
+206.002016,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0xc13e A yahoo.com A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164
+1608.667611,190.157.8.101,192.168.20.26,DNS,138,Standard query response 0x44a7 A shftr.adnxs.net CNAME shftr.appnexusgslb.net A 68.67.153.38
+532.084578,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x6117 MX google.com MX 10 smtp.google.com
+104.274168,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0xc88f TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+374.05304,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xfb30 MX yahoo.com
+522.135024,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xe504 A yahoo.com
+103.460135,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xc14a A httpbin.org
+132.968077,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xd3de TXT yahoo.com
+433.811034,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xaa64 MX google.com
+452.316265,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0xecd9 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+131.064018,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x8d98 MX httpbin.org SOA ns-1053.awsdns-03.org
+336.44416,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x7c88 MX yahoo.com
+79.865137,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x72e3 A yahoo.com A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163
+453.247345,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x9999 TXT httpbin.org TXT
+42.063379,192.168.18.1,192.168.18.46,DNS,551,Standard query response 0xdd2f TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+77.768374,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x7813 TXT httpbin.org
+220.646198,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x4b4b TXT yahoo.com
+323.229117,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0xabc4 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+358.982198,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x77de MX httpbin.org
+449.07034,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xa25d TXT httpbin.org
+271.021608,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x04b1 MX httpbin.org SOA ns-1053.awsdns-03.org
+442.636565,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x20d7 A httpbin.org A 34.203.15.122 A 3.230.204.70 A 34.193.132.77 A 34.199.93.197
+101.887059,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xd656 MX google.com
+314.674531,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0xd8c0 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+113.874048,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0xded1 MX yahoo.com MX 1 mta5.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+439.45643,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0xd6ba MX google.com MX 10 smtp.google.com
+342.368779,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0xa788 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+396.267915,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0xf430 MX google.com MX 10 smtp.google.com
+249.802735,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x38ca TXT yahoo.com
+529.210735,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x5624 MX yahoo.com
+138.995631,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x4b6b MX google.com
+16.196229,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0xaf59 MX httpbin.org SOA ns-1053.awsdns-03.org
+227.651548,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x1571 MX yahoo.com MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+154.695535,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x9034 A httpbin.org A 34.193.132.77 A 34.199.93.197 A 34.203.15.122 A 3.230.204.70
+280.877932,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xe62c A yahoo.com
+236.951134,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x0103 MX yahoo.com MX 1 mta5.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+277.224439,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x0fab A httpbin.org A 34.199.93.197 A 3.230.204.70 A 34.203.15.122 A 34.193.132.77
+424.656914,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x45ff MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+445.617747,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x8ec2 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+355.149489,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0xe6c9 TXT httpbin.org TXT
+78.209913,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xe323 MX yahoo.com
+417.908791,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x5878 A yahoo.com A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21 A 74.6.143.26
+140.181117,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x5e11 A yahoo.com
+71.838063,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x47af A google.com
+143.381896,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x4591 A yahoo.com
+470.845822,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x9949 MX httpbin.org SOA ns-1053.awsdns-03.org
+172.034766,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xd466 TXT google.com
+135.567621,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x3442 MX httpbin.org
+111.297268,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x2648 MX httpbin.org
+224.87574,192.168.18.46,192.168.18.1,DNS,84,Standard query 0xe275 TXT google.com
+39.62825,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0xedc6 A httpbin.org A 3.230.204.70 A 34.199.93.197 A 34.203.15.122 A 34.193.132.77
+392.709801,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xb342 A google.com
+85.744953,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x41f1 A httpbin.org A 34.193.132.77 A 3.230.204.70 A 34.199.93.197 A 34.203.15.122
+188.922168,192.168.18.1,192.168.18.46,DNS,103,Standard query response 0xda9f A httpbin.org A 34.193.132.77 A 34.199.93.197
+505.838779,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xfb29 MX httpbin.org
+354.910657,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x1648 MX google.com
+284.150148,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0xb53a MX yahoo.com MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+12.409133,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x6418 A google.com
+79.335337,192.168.18.1,192.168.18.46,DNS,503,Standard query response 0xdd2e TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+15.379505,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xc7c8 MX httpbin.org
+150.083305,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x22c9 MX yahoo.com MX 1 mta5.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+516.277207,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x1380 MX google.com
+385.211448,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x0d74 MX yahoo.com
+705.902701,2800:484:b384:c80a:f81c:f268:6f0b:c2f4,2800:481:300::4,DNS,104,Standard query 0xb07a AAAA api.naea1.uds.lenovo.com
+14.196517,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x94c7 MX yahoo.com MX 1 mta5.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+263.178421,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x1797 TXT google.com
+531.364255,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x6613 A yahoo.com A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21
+510.017713,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x46bf TXT google.com
+501.305032,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x7e90 A yahoo.com A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163
+120.944525,192.168.18.1,192.168.18.46,DNS,520,Standard query response 0xd36e TXT google.com TXT TXT TXT TXT TXT TXT TXT
+467.937241,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x0ab9 A yahoo.com A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21
+507.466729,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x3587 TXT httpbin.org
+228.427105,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x1ea5 TXT google.com
+516.091869,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xf741 MX yahoo.com
+13.39336,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x1808 TXT yahoo.com
+253.520762,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x3a61 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+250.410857,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x592d MX httpbin.org
+493.158615,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x316d MX httpbin.org
+52.918211,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x4f4d A yahoo.com
+171.762695,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xcb44 A google.com A 172.217.172.14
+470.315869,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x28e6 A httpbin.org A 3.230.204.70 A 34.193.132.77 A 34.199.93.197 A 34.203.15.122
+95.087344,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x7316 MX google.com
+80.825265,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x6068 MX httpbin.org SOA ns-1053.awsdns-03.org
+1624.321712,192.168.20.26,190.157.8.101,DNS,103,Standard query 0x9b0a HTTPS wwwimage-intl.pplusstatic.com
+372.238755,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x2d81 A yahoo.com A 98.137.11.164 A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20
+379.552738,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x3c6c TXT yahoo.com
+70.484945,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xc15f A google.com A 172.217.172.14
+30.020501,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x7c43 TXT google.com
+93.204589,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x492a MX google.com MX 10 smtp.google.com
+106.016068,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x4d8d A google.com
+201.200653,190.157.8.101,192.168.20.26,DNS,151,Standard query response 0x3c3f A r5---sn-q4fl6nsk.googlevideo.com CNAME r5.sn-q4fl6nsk.googlevideo.com A 74.125.3.202
+27.488381,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xc081 A google.com A 172.217.172.14
+268.650373,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0xda74 MX google.com MX 10 smtp.google.com
+264.544997,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x647d TXT google.com
+339.589299,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x638b MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+376.239989,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xdead TXT httpbin.org
+500.753282,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x9e12 A yahoo.com
+191.917615,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xf104 A httpbin.org
+410.507167,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x63aa TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+255.89812,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xe6bf A yahoo.com
+142.850759,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x930d A yahoo.com
+338.713872,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x104e TXT google.com
+90.245029,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0xc7d4 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+348.488654,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x4090 MX httpbin.org SOA ns-1053.awsdns-03.org
+204.284385,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xc1d9 TXT google.com
+415.119038,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xdf95 MX google.com
+158.458762,192.168.18.46,192.168.18.1,DNS,83,Standard query 0xba1d TXT yahoo.com
+129.126703,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x8ba3 TXT httpbin.org
+2.280035,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x1c69 MX httpbin.org
+170.257985,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x7b56 A yahoo.com A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21
+471.522627,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x028c A yahoo.com
+409.137264,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0xc1ea MX yahoo.com MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+294.200068,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x03e5 TXT google.com
+293.752943,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xe131 MX httpbin.org
+260.560673,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x08fe TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+437.870227,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x8beb TXT yahoo.com
+30.160295,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x14f3 TXT yahoo.com
+289.073313,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x5d85 A yahoo.com A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163
+359.258769,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0xf3c1 A httpbin.org A 3.230.204.70 A 34.203.15.122 A 34.199.93.197 A 34.193.132.77
+388.359173,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x8541 A httpbin.org
+419.377261,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x8f09 MX httpbin.org SOA ns-1053.awsdns-03.org
+238.504779,192.168.18.1,192.168.18.46,DNS,498,Standard query response 0x5d2b TXT google.com TXT TXT TXT TXT TXT TXT TXT
+397.397374,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x59d7 A httpbin.org A 34.203.15.122 A 34.199.93.197 A 34.193.132.77 A 3.230.204.70
+248.404198,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x8809 TXT yahoo.com
+312.06662,192.168.18.46,192.168.18.1,DNS,84,Standard query 0xf8d2 TXT google.com
+204.504475,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x92ce A google.com
+382.430294,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x976b MX google.com
+211.691866,192.168.18.1,192.168.18.46,DNS,103,Standard query response 0x73e4 A httpbin.org A 34.193.132.77 A 34.199.93.197
+519.877713,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x4ef6 TXT yahoo.com
+503.78405,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x5720 A yahoo.com
+484.156454,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x5384 MX google.com MX 10 smtp.google.com
+215.601953,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0xc757 TXT httpbin.org TXT
+111.18942,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xf8b1 MX yahoo.com
+286.131604,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0xaaef TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+432.109896,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x30cf TXT httpbin.org
+58.135377,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0xef78 MX google.com MX 10 smtp.google.com
+378.158019,192.168.18.1,192.168.18.46,DNS,506,Standard query response 0x27b9 TXT yahoo.com TXT TXT TXT TXT TXT TXT
+2623.17707,2800:484:b384:c80a:f81c:f268:6f0b:c2f4,2800:481:300::4,DNS,109,Standard query 0xead7 HTTPS play.google.com
+217.051606,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0xf6cf A yahoo.com A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163
+49.960039,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x27e0 MX google.com MX 10 smtp.google.com
+465.807942,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x3a3c TXT httpbin.org
+214.51429,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x24aa MX google.com
+87.72814,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xf370 TXT google.com
+406.097868,192.168.18.1,192.168.18.46,DNS,494,Standard query response 0x9e37 TXT google.com TXT TXT TXT TXT TXT TXT
+422.60703,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0x3248 A google.com A 172.217.172.14
+275.562418,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x7850 A google.com
+184.638189,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x1e1f TXT google.com
+120.17833,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xbceb MX yahoo.com
+443.011985,192.168.18.46,192.168.18.1,DNS,84,Standard query 0xb165 TXT google.com
+124.318626,192.168.18.46,192.168.18.1,DNS,84,Standard query 0xb29e TXT google.com
+376.687917,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0xb2b9 A yahoo.com A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21
+503.995265,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x3a6f MX google.com MX 10 smtp.google.com
+120.484173,192.168.18.1,192.168.18.46,DNS,518,Standard query response 0x048e TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+202.725186,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xf7a8 TXT yahoo.com
+180.132632,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0xf340 TXT httpbin.org TXT
+134.147213,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x970a TXT yahoo.com
+402.701917,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xb28e TXT httpbin.org
+8.779245,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xa5b5 A google.com
+1960.997214,190.157.8.101,192.168.20.26,DNS,195,Standard query response 0x29c2 A edge.microsoft.com CNAME edge-microsoft-com.dual-a-0036.a-msedge.net CNAME dual-a-0036.a-msedge.net A 204.79.197.239 A 13.107.21.239
+159.603034,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x73ed A httpbin.org
+146.265545,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xa6f4 MX google.com
+211.985429,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x47b0 MX httpbin.org
+117.519469,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x9578 A httpbin.org
+247.298554,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x4f6a TXT yahoo.com
+318.762852,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x9e54 MX google.com MX 10 smtp.google.com
+128.920892,192.168.20.26,190.157.8.101,DNS,86,Standard query 0x042c AAAA srtb.msn.com
+384.428143,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x6dba MX yahoo.com MX 1 mta5.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net
+479.455895,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x8d8b MX httpbin.org SOA ns-1053.awsdns-03.org
+125.42896,190.157.8.101,192.168.20.26,DNS,235,Standard query response 0x4e4c AAAA www.youtube.com CNAME youtube-ui.l.google.com AAAA 2800:3f0:4005:40b::200e AAAA 2800:3f0:4005:40c::200e AAAA 2800:3f0:4005:400::200e AAAA 2800:3f0:4005:407::200e
+344.71103,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x22bc TXT httpbin.org
+65.117515,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x9d04 A google.com
+238.565907,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x27f1 MX yahoo.com
+530.384981,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0x2b95 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+83.908332,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x2527 TXT google.com
+9.388513,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0x278a A google.com A 172.217.172.14
+14.147285,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x9bd2 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+479.478774,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x74f1 A google.com
+172.599733,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xf805 A yahoo.com
+209.422527,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x8c7c MX google.com MX 10 smtp.google.com
+229.441443,192.168.18.1,192.168.18.46,DNS,550,Standard query response 0xe360 TXT google.com TXT TXT TXT TXT TXT TXT TXT
+350.468577,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0xa83b TXT httpbin.org TXT
+209.651976,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xedea A google.com A 172.217.172.14
+290.0729,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xbdf8 TXT google.com
+189.922152,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x39b7 MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+460.04244,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xc2f8 A httpbin.org
+92.002608,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x038b TXT yahoo.com
+228.363465,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x8a25 A google.com
+60.187645,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x9793 A google.com
+61.747422,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xaf3a TXT httpbin.org
+352.218674,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0x2f38 A google.com A 172.217.172.14
+138.203507,192.168.18.46,192.168.18.1,DNS,92,Standard query 0x5656 HTTPS me.kis.v2.scr.kaspersky-labs.com
+166.034629,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0xe96c TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+37.828252,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x7ca3 TXT httpbin.org
+108.515861,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x101a MX google.com
+423.789968,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xfd02 TXT yahoo.com
+318.5118,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x3cbe TXT google.com
+528.584772,192.168.18.1,192.168.18.46,DNS,491,Standard query response 0x3fcd TXT google.com TXT TXT TXT TXT TXT TXT TXT
+284.515221,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xc3a5 TXT httpbin.org
+296.621675,192.168.18.1,192.168.18.46,DNS,503,Standard query response 0x6254 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+191.88224,192.168.18.1,192.168.18.46,DNS,492,Standard query response 0x43aa TXT yahoo.com TXT TXT TXT TXT TXT TXT
+133.364004,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x67b0 TXT httpbin.org TXT
+19.064349,192.168.20.26,190.157.8.101,DNS,89,Standard query 0x5ef8 HTTPS api.webtest.net
+161.233182,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x69dd MX httpbin.org SOA ns-1053.awsdns-03.org
+18.708703,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x2e60 TXT httpbin.org TXT
+531.267126,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xc172 MX google.com
+90.586226,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x5121 MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net
+401.648831,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x4710 A yahoo.com
+409.051433,192.168.18.46,192.168.18.1,DNS,84,Standard query 0xc243 TXT google.com
+166.272901,192.168.18.1,192.168.18.46,DNS,510,Standard query response 0xce04 TXT yahoo.com TXT TXT TXT TXT TXT TXT
+270.153537,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x90bb MX httpbin.org
+445.390149,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x5057 TXT yahoo.com
+1940.02793,190.157.8.101,192.168.20.26,DNS,503,Standard query response 0x2b0e AAAA star.content.edge.bamgrid.com CNAME dfwvpm4prsw28.cloudfront.net AAAA 2600:9000:235b:6a00:b:db54:1400:93a1 AAAA 2600:9000:235b:1400:b:db54:1400:93a1 AAAA 2600:9000:235b:5a00:b:db54:1400:93a1 AAAA 2600:9000:235b:5400:b:db54:1400:93a1 AAAA 2600:9000:235b:fa00:b:db54:1400:93a1 AAAA 2600:9000:235b:8a00:b:db54:1400:93a1 AAAA 2600:9000:235b:8600:b:db54:1400:93a1 AAAA 2600:9000:235b:3600:b:db54:1400:93a1 NS ns-1371.awsdns-43.org NS ns-1739.awsdns-25.co.uk NS ns-260.awsdns-32.com NS ns-663.awsdns-18.net
+61.410194,192.168.18.1,192.168.18.46,DNS,503,Standard query response 0xfbf5 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+334.035278,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x5f4b A httpbin.org
+165.043275,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0xdcb7 TXT httpbin.org TXT
+427.868604,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xa9dd MX google.com
+41.367278,192.168.18.46,192.168.18.1,DNS,83,Standard query 0xf82a TXT yahoo.com
+93.144935,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0xd209 MX httpbin.org SOA ns-1053.awsdns-03.org
+126.976417,192.168.20.26,190.157.8.101,DNS,98,Standard query 0x78b8 A sb.scorecardresearch.com
+413.558873,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xaeb0 TXT google.com
+106.404648,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x82d0 A yahoo.com A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163
+315.859611,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x4069 MX google.com MX 10 smtp.google.com
+199.923954,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0xaa8f A yahoo.com A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25
+235.305215,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x6717 TXT yahoo.com
+501.488189,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x5378 A google.com
+401.777467,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0xba07 A httpbin.org A 3.230.204.70 A 34.193.132.77 A 34.199.93.197 A 34.203.15.122
+110.974283,192.168.18.1,192.168.18.46,DNS,503,Standard query response 0x3b21 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+438.756539,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x0eb8 MX yahoo.com MX 1 mta7.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+71.404999,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x0618 A yahoo.com A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21
+243.901061,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x162a TXT httpbin.org TXT
+268.564212,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xb030 MX httpbin.org
+288.810092,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0xe833 A yahoo.com A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21
+533.076328,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x5d8d TXT httpbin.org
+24.928413,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x09e7 MX google.com MX 10 smtp.google.com
+225.753701,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0x7e24 MX yahoo.com MX 1 mta6.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta5.am0.yahoodns.net
+450.566144,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0xc87f A yahoo.com A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25
+402.350543,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x4f89 MX httpbin.org
+43.962989,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x2079 TXT google.com
+346.192301,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x2ef0 TXT yahoo.com
+44.40912,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x069f MX httpbin.org
+347.228553,192.168.18.1,192.168.18.46,DNS,489,Standard query response 0xe193 TXT google.com TXT TXT TXT TXT TXT TXT
+56.300819,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x40aa TXT yahoo.com
+283.790472,192.168.18.1,192.168.18.46,DNS,514,Standard query response 0xae34 TXT google.com TXT TXT TXT TXT TXT TXT TXT
+293.309757,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x4d75 A yahoo.com A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25
+371.368096,192.168.18.1,192.168.18.46,DNS,509,Standard query response 0x1e8f TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+140.893925,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xa19f A google.com A 172.217.172.14
+82.497937,192.168.18.46,192.168.18.1,DNS,70,Standard query 0xb5cb A google.com
+387.453284,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x0705 TXT yahoo.com
+383.987818,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x6b0c MX httpbin.org SOA ns-1053.awsdns-03.org
+502.14956,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x4e87 MX yahoo.com
+506.165208,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xd743 A google.com A 172.217.172.14
+501.460056,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xc0a4 TXT httpbin.org
+502.932977,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x9336 TXT google.com
+210.163914,192.168.18.1,192.168.18.46,DNS,343,Standard query response 0xf166 A westus-0.in.applicationinsights.azure.com CNAME westus-0.in.ai.monitor.azure.com CNAME westus-0.in.ai.privatelink.monitor.azure.com CNAME gig-ai-prod-westus-0.trafficmanager.net CNAME gig-ai-prod-wus-01-app-v4-tag.westus.cloudapp.azure.com A 20.189.172.33
+531.680689,192.168.18.46,192.168.18.1,DNS,83,Standard query 0x4c91 TXT yahoo.com
+208.821909,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x9f74 MX httpbin.org SOA ns-1053.awsdns-03.org
+379.158891,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x307a MX google.com MX 10 smtp.google.com
+213.630629,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x323b MX httpbin.org SOA ns-1053.awsdns-03.org
+484.48563,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0xc093 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+418.027277,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x1f50 MX httpbin.org SOA ns-1053.awsdns-03.org
+428.916758,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x3b6b TXT httpbin.org TXT
+326.429203,192.168.18.1,192.168.18.46,DNS,148,Standard query response 0xb9a5 MX yahoo.com MX 1 mta5.am0.yahoodns.net MX 1 mta7.am0.yahoodns.net MX 1 mta6.am0.yahoodns.net
+1217.387895,2800:484:b384:c80a:f81c:f268:6f0b:c2f4,2800:481:300::4,DNS,101,Standard query 0x5787 AAAA subca.ocsp-certum.com
+497.255299,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0xc2e6 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+69.170028,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x864c TXT google.com
+111.685693,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x28fd TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+71.855092,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0x47af A google.com A 172.217.172.14
+198.606204,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xa703 MX yahoo.com
+209.403516,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x8c7c MX google.com
+121.974158,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0x8b17 A google.com A 172.217.172.14
+56.777621,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x7138 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+341.81074,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xf2e6 HTTPS th.bing.com
+448.650135,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x450e A yahoo.com A 98.137.11.164 A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20
+372.811541,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x574e TXT google.com
+168.743172,192.168.18.1,192.168.18.46,DNS,503,Standard query response 0xaac9 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+350.205466,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x3ce3 TXT httpbin.org
+1153.771187,2800:481:300::4,2800:484:b384:c80a:f81c:f268:6f0b:c2f4,DNS,309,Standard query response 0x5a97 AAAA login.live.com CNAME login.msa.msidentity.com CNAME www.tm.lg.prod.aadmsa.trafficmanager.net CNAME prda.aadg.msidentity.com CNAME www.tm.a.prd.aadg.akadns.net SOA internal.akadns.net
+315.909773,192.168.18.1,192.168.18.46,DNS,930,Standard query response 0x5e42 TXT google.com TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT TXT
+37.323115,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x0a5c MX google.com MX 10 smtp.google.com
+416.656898,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x3784 A httpbin.org A 34.199.93.197 A 34.203.15.122 A 3.230.204.70 A 34.193.132.77
+446.761,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xa66f MX yahoo.com
+471.041694,192.168.18.46,192.168.18.1,DNS,83,Standard query 0xe664 TXT yahoo.com
+335.095839,192.168.18.46,192.168.18.1,DNS,83,Standard query 0xc8f7 TXT yahoo.com
+64.138797,192.168.18.46,192.168.18.1,DNS,71,Standard query 0xf0ea MX httpbin.org
+345.290594,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x06df TXT google.com
+218.358538,192.168.18.46,192.168.18.1,DNS,69,Standard query 0xb1c1 A yahoo.com
+242.171264,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x241d A yahoo.com A 98.137.11.164 A 98.137.11.163 A 74.6.231.21 A 74.6.143.26 A 74.6.143.25 A 74.6.231.20
+71.555046,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0xe6f0 MX httpbin.org SOA ns-1053.awsdns-03.org
+403.449749,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x64f0 MX google.com MX 10 smtp.google.com
+57.605755,192.168.18.1,192.168.18.46,DNS,537,Standard query response 0xbe1f TXT google.com TXT TXT TXT TXT TXT TXT TXT
+450.206478,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x6043 MX google.com MX 10 smtp.google.com
+293.564951,192.168.18.1,192.168.18.46,DNS,536,Standard query response 0x6735 TXT google.com TXT TXT TXT TXT TXT TXT
+267.602028,192.168.18.1,192.168.18.46,DNS,165,Standard query response 0x634c A yahoo.com A 74.6.143.26 A 74.6.143.25 A 74.6.231.20 A 98.137.11.164 A 98.137.11.163 A 74.6.231.21
+315.36873,192.168.18.46,192.168.18.1,DNS,69,Standard query 0x1c50 A yahoo.com
+531.804235,192.168.18.1,192.168.18.46,DNS,86,Standard query response 0xcaac A google.com A 172.217.172.14
+47.35565,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0x28eb A httpbin.org A 34.193.132.77 A 3.230.204.70 A 34.199.93.197 A 34.203.15.122
+391.639988,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x8c30 MX google.com
+276.410319,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0x575a TXT httpbin.org TXT
+55.078739,192.168.18.46,192.168.18.1,DNS,70,Standard query 0x7261 MX google.com
+502.02539,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0xc051 TXT httpbin.org TXT
+333.033238,192.168.18.46,192.168.18.1,DNS,84,Standard query 0x42bc TXT google.com
+178.896154,192.168.18.1,192.168.18.46,DNS,685,Standard query response 0xe7d5 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT TXT TXT
+124.25612,190.157.8.101,192.168.20.26,DNS,254,Standard query response 0x16b4 HTTPS www.bing.com CNAME www-www.bing.com.trafficmanager.net CNAME www-bing-com.dual-a-0001.a-msedge.net CNAME dual-a-0001.a-msedge.net SOA ns1.a-msedge.net
+526.494759,192.168.18.1,192.168.18.46,DNS,509,Standard query response 0x71e9 TXT yahoo.com TXT TXT TXT TXT TXT TXT TXT
+113.669966,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x44d2 A httpbin.org
+388.167978,192.168.18.1,192.168.18.46,DNS,95,Standard query response 0xb694 TXT httpbin.org TXT
+24.329744,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x9d71 MX httpbin.org
+312.222228,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x5b5a A httpbin.org
+280.160649,192.168.18.46,192.168.18.1,DNS,71,Standard query 0x9a01 A httpbin.org
+466.696218,192.168.18.1,192.168.18.46,DNS,91,Standard query response 0x70d5 MX google.com MX 10 smtp.google.com
+187.002241,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x537a MX httpbin.org SOA ns-1053.awsdns-03.org
+279.660247,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0xf050 A httpbin.org A 34.193.132.77 A 34.199.93.197 A 3.230.204.70 A 34.203.15.122
+352.473017,192.168.18.1,192.168.18.46,DNS,156,Standard query response 0x9c6b MX httpbin.org SOA ns-1053.awsdns-03.org
+235.72153,192.168.18.1,192.168.18.46,DNS,518,Standard query response 0xe2f3 TXT google.com TXT TXT TXT TXT TXT TXT
+275.240295,192.168.18.1,192.168.18.46,DNS,135,Standard query response 0xf5f6 A httpbin.org A 34.193.132.77 A 34.199.93.197 A 3.230.204.70 A 34.203.15.122
