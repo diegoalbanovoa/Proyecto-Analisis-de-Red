@@ -35,10 +35,12 @@ file_path = r"C:\Users\diego\Videos\Proyecto Analisis de Red\Proyecto-Analisis-d
 df = pd.read_csv(file_path)
 
 # Define una lista de protocolos de aplicación conocidos
-app_protocols = ['HTTP', 'HTTPS', 'DNS', 'SMTP', 'FTP', 'SSH','RIP','SNMP']
+app_protocols = ['HTTP', 'HTTPS', 'DNS', 'TCP', 'FTP', 'ICMP','UDP']
 
 # Filtra los resultados del conteo por los protocolos de aplicación conocidos
 app_protocol_counts = df.loc[df['Protocol'].isin(app_protocols), 'Protocol'].value_counts()
 
 # Imprime el resultado
 print(app_protocol_counts)
+
+
