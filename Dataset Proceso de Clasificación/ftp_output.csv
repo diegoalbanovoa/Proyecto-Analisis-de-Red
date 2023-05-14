@@ -1,0 +1,701 @@
+Time,Source,Destination,Protocol,Length,Info
+27.161044,127.0.0.1,127.0.0.1,FTP,90,"Response: 227 Entering passive mode (127,0,0,1,204,5)."
+44.262723,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+0.000823,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,202,191)."
+43.252696,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+58.358691,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+76.490674,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+35.202689,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,105)."
+67.409182,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+58.356482,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+53.329048,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+72.45642,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,206,49)."
+13.070711,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,203,94)."
+64.388387,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,194)."
+7.027854,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+77.508387,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+52.309607,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+55.333704,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+53.325271,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+76.503274,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+77.520359,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+6.026474,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+15.085306,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+17.103833,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+28.172085,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+58.360966,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+43.143555,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,124,Response: 200 LPRT command successful.
+27.167416,127.0.0.1,127.0.0.1,FTP,65,Request: DELE zqhfyfzwdb.txt
+29.177026,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+60.367786,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+71.436538,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+19.59668,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,149,Response: 150 Opening ASCII mode data connection for '/bin/ls'.
+28.175406,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+7.036068,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+58.358359,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+35.21448,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+13.068235,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+45.269547,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+72.451657,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+58.35857,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+13.059091,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,203,88)."
+40.239829,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+76.489218,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+65.399731,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+67.40603,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+45.269411,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+18.110123,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,158)."
+29.180949,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+18.110738,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+52.320238,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+28.17488,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+53.326472,127.0.0.1,127.0.0.1,FTP,65,Request: STOR qgjejeykzq.txt
+2.00663,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+40.237763,127.0.0.1,127.0.0.1,FTP,65,Request: STOR qfmogmvjrf.txt
+21.129322,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+45.269168,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+43.257341,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+35.215755,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+52.321375,127.0.0.1,127.0.0.1,FTP,65,Request: STOR qajcnovwzz.txt
+13.068674,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+18.116417,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+6.023796,127.0.0.1,127.0.0.1,FTP,90,"Response: 227 Entering passive mode (127,0,0,1,203,5)."
+43.254823,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+35.218467,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+27.161661,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+58.355274,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+20.123869,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+50.294707,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+15.087192,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+77.508234,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+37.220036,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+80.539702,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+28.172554,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,204,21)."
+13.070234,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+76.499823,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+56.344339,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+18.112425,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+6.02344,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+58.355798,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,125)."
+17.108077,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+77.515498,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+25.158528,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+77.512584,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+43.252134,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,204)."
+71.437095,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,206,29)."
+41.245112,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+77.515935,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+69.421283,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+65.403333,127.0.0.1,127.0.0.1,FTP,65,Request: DELE jwvtdwwhap.txt
+73.467161,127.0.0.1,127.0.0.1,FTP,65,Request: STOR ntzafhxvod.txt
+7.030409,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+74.473504,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+48.2898,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+18.112903,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+75.482405,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+74.474028,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,206,76)."
+12.053751,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+33.19732,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+76.494352,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+80.530869,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+77.519877,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+75.479236,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+69.415682,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+64.390764,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+60.364352,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+57.349652,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+67.409087,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+18.113889,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,160)."
+77.518298,127.0.0.1,127.0.0.1,FTP,65,Request: STOR byuwwcqcaz.txt
+72.449931,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+65.400511,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+80.534171,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+11.043576,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+24.150179,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+37.22757,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+18.113303,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+15.090695,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+31.187943,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+47.282648,127.0.0.1,127.0.0.1,FTP,65,Request: STOR qajcnovwzz.txt
+7.031369,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+33.19643,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+17.101396,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,143)."
+52.315708,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+76.491529,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+55.329974,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+27.167188,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+77.517104,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+5.020824,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+71.439261,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+50.30471,127.0.0.1,127.0.0.1,FTP,65,Request: STOR qajcnovwzz.txt
+69.424904,127.0.0.1,127.0.0.1,FTP,65,Request: RETR bzxtqcegmz.txt
+6.023301,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+77.507575,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+72.454701,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+60.36692,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+29.183731,127.0.0.1,127.0.0.1,FTP,65,Request: DELE hssoqlyafg.txt
+76.488327,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+69.431971,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+35.205645,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+2.009747,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+65.400375,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+21.140795,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+65.402756,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+44.266406,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+80.539532,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+29.179334,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+21.136431,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+45.262696,2002:5183:4383::5183:4383,2001:638:902:1:201:2ff:fee2:7596,FTP,147,Request: RETR /pub/ftp.zebra.org/pub/zebra/zebra-0.95.tar.gz
+43.16211,2002:5183:4383::5183:4383,2001:638:902:1:201:2ff:fee2:7596,FTP,147,Request: SIZE /pub/ftp.zebra.org/pub/zebra/zebra-0.95.tar.gz
+67.408968,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+50.30341,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+52.31228,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,205,64)."
+43.256914,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+11.05105,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+7.03098,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+53.32546,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+60.377665,127.0.0.1,127.0.0.1,FTP,65,Request: STOR jwvtdwwhap.txt
+7.032811,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+72.455097,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+62.38537,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+41.248748,127.0.0.1,127.0.0.1,FTP,65,Request: DELE teqzdpcfhe.txt
+24.15051,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,228)."
+29.179703,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+58.361347,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+15.809571,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,142,"Response: 230 Guest login ok, access restrictions apply."
+3.013236,127.0.0.1,127.0.0.1,FTP,65,Request: STOR lrhgkhtcxs.txt
+21.138154,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+45.274435,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+31.188565,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,204,58)."
+35.215915,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+11.044008,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,203,62)."
+17.104107,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+60.379991,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+77.517725,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,206,127)."
+44.260664,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,219)."
+74.472941,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+36.313477,2002:5183:4383::5183:4383,2001:638:902:1:201:2ff:fee2:7596,FTP,102,Request: TYPE I
+7.034667,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+19.950196,2002:5183:4383::5183:4383,2001:638:902:1:201:2ff:fee2:7596,FTP,105,Request: site help
+71.434517,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+21.130416,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+37.22644,127.0.0.1,127.0.0.1,FTP,65,Request: DELE gzufviwbeo.txt
+75.482625,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+67.411931,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+13.058582,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+27.163993,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+29.182929,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+41.171875,2002:5183:4383::5183:4383,2001:638:902:1:201:2ff:fee2:7596,FTP,156,"Request: LPRT 6,16,32,2,81,131,67,131,0,0,0,0,0,0,81,131,67,131,2,4,8"
+3.015171,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+41.250062,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+60.364543,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+29.176577,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+35.21632,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,111)."
+7.032053,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,203,18)."
+69.426548,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+37.220478,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,133)."
+71.436317,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+50.291862,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+74.47618,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+55.330768,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,101)."
+41.246244,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+23.145404,127.0.0.1,127.0.0.1,FTP,65,Request: STOR gzufviwbeo.txt
+53.325906,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,205,80)."
+52.312864,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+73.465734,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+50.304,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,205,41)."
+71.436666,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+76.492689,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+50.301627,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+29.180099,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+58.359143,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,127)."
+50.297704,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+21.133577,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+47.284758,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+73.469525,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+18.028321,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,123,Response: 502 Unknown command 'utf8'.
+21.125785,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,192)."
+14.078286,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,106)."
+71.433332,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+43.255676,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+11.046723,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+17.104508,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,145)."
+41.241163,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+62.383559,127.0.0.1,127.0.0.1,FTP,65,Request: STOR rarcdwrpbv.txt
+37.223072,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+45.27631,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+72.44856,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+52.30906,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,205,61)."
+77.504718,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+11.501953,2002:5183:4383::5183:4383,2001:638:902:1:201:2ff:fee2:7596,FTP,110,Request: USER anonymous
+35.211435,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+50.306561,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+23.144711,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,218)."
+62.382487,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+14.08073,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+52.314717,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+77.504624,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+72.448757,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+33.195453,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+60.368656,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+69.420151,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+44.260314,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+52.316616,127.0.0.1,127.0.0.1,FTP,65,Request: RETR qajcnovwzz.txt
+64.39505,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+35.210384,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+50.294967,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+64.391487,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,196)."
+65.40061,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+18.113133,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+45.269955,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,233)."
+7.031527,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+14.075258,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,104)."
+76.498449,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+5.018191,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,202,248)."
+75.482525,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+80.535063,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+76.488043,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+37.223657,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,135)."
+33.192909,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,204,81)."
+13.065757,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+47.281659,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+55.333297,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+47.282101,127.0.0.1,127.0.0.1,FTP,90,"Response: 227 Entering passive mode (127,0,0,1,205,1)."
+45.273167,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+69.42834,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+69.424343,127.0.0.1,127.0.0.1,FTP,90,"Response: 227 Entering passive mode (127,0,0,1,206,3)."
+72.452432,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+44.260033,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+50.295709,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,205,37)."
+27.169269,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+15.088428,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+45.270708,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+35.215599,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+33.196334,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+76.488228,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+9.039397,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,203,40)."
+77.508014,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+15.094649,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+48.287017,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+75.483489,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+6.025996,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+13.065491,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+33.196762,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,204,83)."
+71.438888,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+13.066648,127.0.0.1,127.0.0.1,FTP,65,Request: RETR qeyyfyjijt.txt
+15.084762,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,119)."
+41.15625,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,127,"Response: 500 Invalid argument, rejected."
+50.300032,127.0.0.1,127.0.0.1,FTP,65,Request: RETR qajcnovwzz.txt
+17.101949,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+50.296256,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+57.350629,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+77.511342,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+37.226236,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+13.070334,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+15.090234,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+15.821289,2002:5183:4383::5183:4383,2001:638:902:1:201:2ff:fee2:7596,FTP,108,Request: opts utf8 on
+57.353655,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+44.26788,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+7.027962,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+60.375275,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+33.193587,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+77.512734,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+14.074634,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+21.129108,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+18.117969,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+52.320358,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+38.23357,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+13.065658,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+76.499641,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+33.192309,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+15.096862,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,125)."
+0.003576,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+76.500926,127.0.0.1,127.0.0.1,FTP,65,Request: STOR byuwwcqcaz.txt
+11.04987,127.0.0.1,127.0.0.1,FTP,65,Request: DELE slrpjxrlny.txt
+43.254585,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+3.015714,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+31.19081,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+35.206445,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+50.302065,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+20.767578,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,118,Response: 226 Transfer complete.
+35.20819,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+43.258702,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+44.261223,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+3.012271,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+71.445037,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,206,33)."
+76.495342,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+57.349396,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+24.150084,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+80.542199,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+67.409492,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,233)."
+41.248099,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+35.209855,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+11.5,2002:5183:4383::5183:4383,2001:638:902:1:201:2ff:fee2:7596,FTP,134,Request: EPRT |2|2002:5183:4383::5183:4383|1031
+64.393268,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+33.200845,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+7.034191,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+5.018737,127.0.0.1,127.0.0.1,FTP,65,Request: STOR wsoprwkbxp.txt
+25.156018,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+27.163889,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+35.212375,127.0.0.1,127.0.0.1,FTP,65,Request: RETR gzufviwbeo.txt
+72.449205,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,206,45)."
+6.0,2002:5183:4383::5183:4383,2001:638:902:1:201:2ff:fee2:7596,FTP,100,Request: noop
+15.096141,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+41.245246,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+55.337455,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+20.120912,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+52.311938,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+69.427012,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+40.236525,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+64.391077,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+52.318364,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+55.333913,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+15.091676,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+60.367297,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+44.264561,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+15.084412,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+21.136927,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+57.349562,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+75.479765,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,206,89)."
+7.028337,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,203,16)."
+12.054352,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,203,75)."
+60.365585,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+53.325566,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+11.047295,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,203,64)."
+12.055029,127.0.0.1,127.0.0.1,FTP,65,Request: STOR qeyyfyjijt.txt
+37.219853,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+9.04164,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+55.334478,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,103)."
+9.039,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+33.199488,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+80.535318,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+76.495683,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,206,108)."
+77.504446,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+55.331523,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+55.334145,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+11.0432,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+22.985352,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,100,Response: 214-
+44.260218,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+2.00645,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+0.004344,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+33.195985,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+15.086985,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+74.474629,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+53.328516,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+67.413971,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+74.471126,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,206,74)."
+15.092109,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,123)."
+58.357947,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+75.478977,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+80.530428,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+15.09178,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+69.419666,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+71.435931,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+80.537759,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+38.230109,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+23.144105,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+44.263338,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+33.199064,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+64.387931,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+9.96875,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,123,Response: 250 CWD command successful.
+13.439453,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,143,"Response: 331 Guest login ok, type your name as password."
+69.424017,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+23.143868,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+45.27241,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+60.365017,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,144)."
+80.527642,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+40.237213,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,169)."
+20.120819,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+52.318823,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+45.272818,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+60.36811,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,146)."
+33.1925,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+52.322918,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+19.948243,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,143,Response: 215 UNIX Type: L8 Version: NetBSD-ftpd 20041119
+21.138003,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+16.860352,2002:5183:4383::5183:4383,2001:638:902:1:201:2ff:fee2:7596,FTP,100,Request: LIST
+35.211813,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,109)."
+20.120637,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+77.505059,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,206,121)."
+73.468933,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+80.532425,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+52.320783,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,205,68)."
+35.202238,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+72.452763,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,206,47)."
+52.315609,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+17.106987,127.0.0.1,127.0.0.1,FTP,65,Request: DELE paqrulobkc.txt
+21.129547,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+9.042133,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+50.295281,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+44.263892,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,221)."
+56.34275,127.0.0.1,127.0.0.1,FTP,65,Request: STOR loltosjmei.txt
+27.163745,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+15.096449,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+71.439983,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+50.292289,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,205,35)."
+14.077861,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+7.02894,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+65.401509,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+55.335121,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+27.160248,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+6.024361,127.0.0.1,127.0.0.1,FTP,65,Request: STOR paqrulobkc.txt
+69.422974,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+15.099655,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+25.155924,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+80.531152,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+56.341623,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+21.129449,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+9.038892,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+72.460836,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,206,51)."
+13.058349,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+13.061798,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+71.447282,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+27.166731,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+21.129869,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,194)."
+9.736328,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,100,Response: 220-
+80.536204,127.0.0.1,127.0.0.1,FTP,65,Request: RETR dyvmdtfygc.txt
+80.535652,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,206,167)."
+76.496229,127.0.0.1,127.0.0.1,FTP,65,Request: RETR byuwwcqcaz.txt
+40.239349,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+52.323415,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+13.061942,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+27.160498,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+72.448856,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+12.057557,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+21.124823,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+62.382218,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+75.484853,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+77.508482,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+69.420251,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+25.156895,127.0.0.1,127.0.0.1,FTP,65,Request: STOR fzpurivvef.txt
+31.188218,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+60.369907,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+13.073374,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+64.390388,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+56.342217,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,112)."
+76.491661,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+67.408398,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+37.22013,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+24.153019,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+62.382388,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+29.179894,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+43.255141,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,206)."
+29.180413,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,204,36)."
+35.211298,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+2.007076,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,202,213)."
+35.207338,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,107)."
+37.221042,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+50.292971,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+57.352537,127.0.0.1,127.0.0.1,FTP,65,Request: DELE qajcnovwzz.txt
+23.147166,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+17.103627,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+80.542676,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+72.453329,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+11.049651,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+80.527981,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,206,162)."
+5.017857,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+65.403126,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+24.149906,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+57.349109,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+11.046505,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+44.266615,127.0.0.1,127.0.0.1,FTP,65,Request: DELE fzpurivvef.txt
+50.299028,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+60.370298,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+75.486645,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+71.433832,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,206,27)."
+15.087317,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+15.092685,127.0.0.1,127.0.0.1,FTP,65,Request: RETR paqrulobkc.txt
+29.178024,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+35.202342,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+5.017577,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+79.523025,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+14.075823,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+13.061666,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+80.527547,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+3.012099,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+35.211159,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+76.499968,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+13.071291,127.0.0.1,127.0.0.1,FTP,65,Request: STOR qeyyfyjijt.txt
+48.287336,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+41.241291,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+76.495096,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+31.189092,127.0.0.1,127.0.0.1,FTP,65,Request: STOR mtdhqazywk.txt
+13.714844,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,127,"Response: 500 Invalid argument, rejected."
+71.442661,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+71.43344,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+71.44108,127.0.0.1,127.0.0.1,FTP,65,Request: RETR bzxtqcegmz.txt
+41.245687,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,183)."
+71.437643,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+0.000407,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+15.091509,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+21.133932,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,196)."
+72.452215,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+60.367704,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+67.412453,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+75.479344,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+14.077963,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+27.164407,127.0.0.1,127.0.0.1,FTP,90,"Response: 227 Entering passive mode (127,0,0,1,204,7)."
+55.330224,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+11.5,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,114,Response: 200 Type set to A.
+13.062331,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,203,90)."
+31.191305,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+21.141276,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+58.361535,127.0.0.1,127.0.0.1,FTP,65,Request: DELE loltosjmei.txt
+79.522679,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+17.100951,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+12.057023,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+55.337648,127.0.0.1,127.0.0.1,FTP,65,Request: DELE qgjejeykzq.txt
+15.094208,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+29.176917,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+69.41583,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+65.404426,127.0.0.1,127.0.0.1,FTP,63,Response: 250 File removed.
+69.423919,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+60.376521,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+60.364648,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+52.315466,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+80.533726,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+2.006729,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+76.491349,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+14.080159,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+67.407071,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+15.087856,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,203,121)."
+9.984375,2002:5183:4383::5183:4383,2001:638:902:1:201:2ff:fee2:7596,FTP,102,Request: TYPE A
+52.311843,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+2.009247,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+79.526529,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+75.482201,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+52.31431,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+60.376678,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+50.294333,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+27.163529,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+58.359698,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+20.121802,127.0.0.1,127.0.0.1,FTP,65,Request: STOR eeeqwsglla.txt
+38.876953,2001:638:902:1:201:2ff:fee2:7596,2002:5183:4383::5183:4383,FTP,114,Response: 200 Type set to I.
+71.44022,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+44.263459,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+77.512835,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+35.216904,127.0.0.1,127.0.0.1,FTP,65,Request: STOR gzufviwbeo.txt
+21.125069,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+0.000298,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+79.522916,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+37.222946,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+48.287205,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+79.523429,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,206,150)."
+72.461393,127.0.0.1,127.0.0.1,FTP,65,Request: STOR bzxtqcegmz.txt
+65.400151,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+17.10324,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+72.463368,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+74.470682,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+52.3084,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+80.540711,127.0.0.1,127.0.0.1,FTP,65,Request: STOR dyvmdtfygc.txt
+72.452344,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+58.355383,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+79.524112,127.0.0.1,127.0.0.1,FTP,65,Request: STOR dyvmdtfygc.txt
+15.084317,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+64.387737,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+14.07773,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+60.372525,127.0.0.1,127.0.0.1,FTP,65,Request: RETR jwvtdwwhap.txt
+64.387415,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+74.470498,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+12.053923,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+20.123375,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+60.377098,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,150)."
+11.046952,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+43.254717,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+43.254369,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+58.358801,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+13.058703,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+3.012699,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,202,226)."
+14.077511,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+41.244882,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+77.509477,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+18.10971,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+72.458554,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+69.417267,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+18.028321,2002:5183:4383::5183:4383,2001:638:902:1:201:2ff:fee2:7596,FTP,100,Request: syst
+71.440545,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,206,31)."
+0.0,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+45.27303,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+21.13931,127.0.0.1,127.0.0.1,FTP,65,Request: STOR hssoqlyafg.txt
+29.177435,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,204,34)."
+67.408771,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+57.34998,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,118)."
+64.390957,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+65.396555,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+23.14767,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+60.371857,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,148)."
+28.17315,127.0.0.1,127.0.0.1,FTP,65,Request: STOR byhbmpnsuu.txt
+43.251689,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+14.077114,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+71.433108,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+75.481818,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+55.337021,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+50.29811,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+14.074911,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+14.074817,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+71.436763,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+76.502613,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+67.405674,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+35.206818,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+47.281756,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+33.192601,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+15.097447,127.0.0.1,127.0.0.1,FTP,65,Request: STOR paqrulobkc.txt
+13.061439,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+72.462873,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+60.371405,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+13.072801,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+77.517397,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+17.10396,127.0.0.1,127.0.0.1,FTP,69,Response: 200 Type set to: ASCII.
+60.371512,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+27.160645,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+28.171907,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+41.241759,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,181)."
+13.06102,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+15.096315,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+17.106772,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+44.263547,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+21.134523,127.0.0.1,127.0.0.1,FTP,65,Request: RETR hssoqlyafg.txt
+43.251784,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+75.480469,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+13.064193,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+64.391161,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+41.244302,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+80.539353,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+69.422598,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+76.492102,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,206,106)."
+18.116628,127.0.0.1,127.0.0.1,FTP,65,Request: DELE lrhgkhtcxs.txt
+64.393642,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+76.493979,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+77.513219,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,206,125)."
+76.495231,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+62.382839,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,173)."
+72.455838,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+69.416389,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,205,255)."
+38.230747,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,204,147)."
+80.527352,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+52.311448,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+24.151059,127.0.0.1,127.0.0.1,FTP,65,Request: STOR zqhfyfzwdb.txt
+71.44777,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+44.266091,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+50.303241,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+12.054019,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+21.12676,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+74.473313,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+60.371239,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE I
+67.410073,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+37.222735,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+80.53179,127.0.0.1,127.0.0.1,FTP,92,"Response: 227 Entering passive mode (127,0,0,1,206,164)."
+72.456971,127.0.0.1,127.0.0.1,FTP,65,Request: RETR bzxtqcegmz.txt
+21.128603,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+75.482938,127.0.0.1,127.0.0.1,FTP,91,"Response: 227 Entering passive mode (127,0,0,1,206,91)."
+69.415445,127.0.0.1,127.0.0.1,FTP,52,Request: TYPE A
+31.188124,127.0.0.1,127.0.0.1,FTP,70,Response: 200 Type set to: Binary.
+65.398209,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+41.248543,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+75.485479,127.0.0.1,127.0.0.1,FTP,65,Request: DELE bzxtqcegmz.txt
+35.213971,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+23.144255,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
+62.38615,127.0.0.1,127.0.0.1,FTP,68,Response: 226 Transfer complete.
+64.389074,127.0.0.1,127.0.0.1,FTP,50,Request: NLST
+27.163084,127.0.0.1,127.0.0.1,FTP,98,Response: 125 Data connection already open. Transfer starting.
+37.223184,127.0.0.1,127.0.0.1,FTP,50,Request: PASV
